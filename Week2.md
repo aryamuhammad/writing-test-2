@@ -10,16 +10,16 @@
 ### Tipe Data di Javascript
 Dalam Javascript, terdapat beberapa tipe data. tipe-tipe data tersebut dikelompokkan menjadi tipe data primitive dan tipe data non-primitive.   
 - Tipe data Primitive:
-    - String
+    - String   
   ![](asset/string..png)
-    - Number
+    - Number    
   ![](asset/number..png)
-    - Boolean
+    - Boolean   
   ![](asset/boolean..png)
 - Tipe data non primitive:
-    - Array
+    - Array   
   ![](asset/array..png)
-    - Object 
+    - Object    
   ![](asset/object..png)
 ### Property dan Method dalam Javascript 
 - Property yang ada di dalam string:
