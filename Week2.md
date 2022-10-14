@@ -1,12 +1,23 @@
-## Writing Test week 2 Web Development Basic      
+## Writing Test week 2 
+##### Nama : Muhammad Arya Wirawan
+##### Grup / Kelompok : FE 2 / Kelompok 8      
+##### Mentor : Thoriq Nur Faizal
 ### Scope dalam Javascript     
 - Scope menentukan suatu variabel dapat diakses pada scope tertentu atau tidak          
 -  Blocks adalah code yang berada di dalam curly braces atau {}. Conditional, looping, function dalam javascript menggunakan curly braces
 -  Global Scope merupakan variabel yang dapat kita akses secara global atau dimanapun dalam suatu file. Untuk menjadikannya global scope, kita harus mendeklarasikannya di luar Blocks
-  <!-- Image Global Scope -->
+![](asset/global-scope..png)
 - Local Scope merupakan variabel yang kita deklaraikan di dalam blokcs seperti pada function, looping, conditional. Oleh karena itu, variabel tersebut hanya dapat diakses di dalam blocks saja
-<!-- Image local scope -->
-
+![](asset/local-scope..png)
+### Function dalam Javascript
+Function merupakan blok kode yang berisikan perintah untuk menyelesaikan suatu masalah. Untuk dapat menjalankan function, kita harus mendeklarasikan dan memanggil function tersebut
+```
+<!-- Mendeklarasikan function -->
+function sayHello () {
+  alert('hello world') // Perintah
+}
+sayHello() // memanggil sebuah function
+```
 ### Tipe Data di Javascript
 Dalam Javascript, terdapat beberapa tipe data. tipe-tipe data tersebut dikelompokkan menjadi tipe data primitive dan tipe data non-primitive.   
 - Tipe data Primitive:
